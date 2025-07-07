@@ -1,6 +1,6 @@
 ## 👋 Hi there, I am Jesús Martinez
 
-🛠️ Low-level engineer student • 🧑‍💻 Developer  🧑‍🎓 Bachelor in Business Administration
+🛠️ Low-level engineer student • 🧑‍💻 Developer  • 🧑‍🎓 Bachelor in Business Administration
 
 Welcome to my GitHub profile!
 
