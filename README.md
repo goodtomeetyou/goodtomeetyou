@@ -63,6 +63,14 @@ I understand the basics and love diving deeper into how things really work.
 
 ---
 
+### 🗣️ Languages
+- Native Spanish
+- C1 English
+- B1 French
+- B1 Korean
+
+---
+
 ### 📫 Reach me
 
 - 🐱 GitHub: [jesusmartinez](https://github.com/goodtomeetyou)
