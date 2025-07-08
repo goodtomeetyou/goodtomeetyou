@@ -1,4 +1,4 @@
-## 👋 Hi there, I am Jesús Martinez
+## 👋 Hi there, I am Jesus Martinez
 
 🛠️ Low-level engineer student • 🧑‍💻 Developer  • 🧑‍🎓 Bachelor in Business Administration
 
