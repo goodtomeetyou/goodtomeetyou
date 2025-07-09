@@ -1,6 +1,6 @@
 ## 👋 Hi there, I am Jesus Martinez
 
-🛠️ Low-level engineer student • 🧑‍💻 Developer  • 🧑‍🎓 Bachelor in Business Administration
+🛠️ Low-level engineering enthusiast • 🧑‍💻 Developer  • 🧑‍🎓 Bachelor in Business Administration
 
 Welcome to my GitHub profile!
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 #### 💪 Comfortable / Daily Use
 - **Python** 🐍  
 - **C / C++** ⚙️  
-- **Swift / AppKit-UIKit and a starting in SwiftUI** 🍏  
+- **Swift** 🍏  
 - **Flutter (Dart)** 📱  
 
 #### 🧪 Currently Learning / Exploring
@@ -28,7 +28,7 @@ Welcome to my GitHub profile!
 - **Objective-C**
 - **TypeScript** 🌐 
 - **React Native** ⚛️  
-- **Rust** 🦀  
+- **R** 🦀  
 - **JavaScript** 🌍  
 
 I understand the basics and love diving deeper into how things really work.
@@ -66,16 +66,16 @@ I understand the basics and love diving deeper into how things really work.
 ### 🗣️ Languages
 - Native Spanish
 - C1 English
-- B1 French
-- B1 Korean
+- A1 French
+- A1 Korean
 
 ---
 
 ### 📫 Reach me
 
-- 🐱 GitHub: [jesusmartinez](https://github.com/goodtomeetyou)
+- 🐱: [jesusmartinez](https://github.com/goodtomeetyou)
 - 𝕏: [@gooodtomeetyou](https://x.com/gooodtomeetyou)
-- 📬 Email: jesse_m@naver.com
+- 📬: jesse_m@naver.com
 
 ---
 
