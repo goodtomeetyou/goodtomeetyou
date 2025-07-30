@@ -1,6 +1,6 @@
 ## 👋 Hi there, I am Jesus Martinez
 
-🛠️ Low-level engineering enthusiast • 🧑‍💻 Developer  • 🧑‍🎓 Bachelor in Business Administration
+🛠️ Low-level engineering enthusiast • 🧑‍💻 Developer  • 🧑‍🎓 Bachelor in Business Administration student
 
 Welcome to my GitHub profile!
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 
 #### 🧪 Currently Learning / Exploring
 - **ARM64 Assembly** 🧬
-- **Objective-C**
+- **Objective-C** 💾
 - **TypeScript** 🌐 
 - **React Native** ⚛️  
 - **R** 🦀  
@@ -37,9 +37,9 @@ I understand the basics and love diving deeper into how things really work.
 
 ### 🧪 Projects & Technologies
 
-- 🧩 **Popular IDE** such as XCode, VStudio Code, Cursor
+- 🧩 **Popular IDE** such as Xcode, VStudio Code, Cursor
 - ⚔️ Building tooling around **QEMU**, **Clang/LLVM**, **Linux distributions**
-- 🍎 Deep work on Apple mach-o binaries and runtime internals**
+- 🍎 Deep work on Apple mach-o binaries and runtime internals
 - 📦 Experience creating native **macOS and iOS apps** 
 
 ---
